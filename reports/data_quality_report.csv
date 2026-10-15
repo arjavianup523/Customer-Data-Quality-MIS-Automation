@@ -1,0 +1,9 @@
+check,affected_records,status
+Missing customer IDs,0,PASS
+Duplicate customer IDs,0,PASS
+Missing customer names,2,REVIEW
+Missing customer cities,3,REVIEW
+Duplicate transaction IDs,2,REVIEW
+Missing quantities,5,REVIEW
+Negative sales amounts,2,FAIL
+Unknown customer IDs,0,PASS

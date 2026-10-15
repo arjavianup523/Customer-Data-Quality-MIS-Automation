@@ -1,0 +1,4 @@
+transaction_id,customer_id,transaction_date,product,quantity,unit_price,sales_amount,quality_issue
+5011,1370,2026-04-19,Tablet,,5000,5000.0,Missing quantity; 
+5051,1837,2026-04-24,Laptop,,500,500.0,Missing quantity; 
+5101,1366,2026-02-26,Phone,,1000,4000.0,Missing quantity; 

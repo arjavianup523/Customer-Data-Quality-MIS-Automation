@@ -1,0 +1,5 @@
+Dataset,Rows,Columns,Missing values (excluding blank issue labels)
+Customers reviewed,1000,5,5
+Sales cleaned,3000,8,3
+Data quality checks,8,3,0
+Sales exceptions,3,8,3
